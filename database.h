@@ -1,0 +1,4 @@
+/*
+database.h
+mantain data connection with the remote database
+*/

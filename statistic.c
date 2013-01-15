@@ -1,0 +1,4 @@
+/*
+statistic.c
+show statistic of every day with a diagram
+*/
